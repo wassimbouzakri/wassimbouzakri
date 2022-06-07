@@ -35,4 +35,5 @@ I am mainly a front-end developer but I am interested in anything else ❗️
 
 # MY STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=wassimbouzakri&show_icons=true&locale=en&theme=radical"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=wassimbouzakri&show_icons=true&locale=en&theme=radical"/></p>
+
