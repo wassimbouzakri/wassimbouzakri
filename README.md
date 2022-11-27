@@ -40,3 +40,4 @@ I am mainly a front-end developer but I am interested in anything else ❗️
 # MY STATS
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=wassimbouzakri&show_icons=true&locale=en&theme=radical"/></p>
+<p><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimbouzakri&layout=compact)](https://github.com/wassimbouzakri/github-readme-stats)"/></p>
