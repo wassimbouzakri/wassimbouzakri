@@ -10,6 +10,7 @@ I am mainly a front-end developer but I am interested in anything else ❗️
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 - <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+- <img src=""/>
 
 # MY SCHOOL PROJECT 🧑🏻‍🦯
 
@@ -29,7 +30,7 @@ I am mainly a front-end developer but I am interested in anything else ❗️
 <a href="https://github.com/nexus9111/modelisation"> Modelisation of COVID19 🦠</a> <br>
 
 - C: <br>
-<a href=""> Matches Game 🔥</a> <br>
+<a href="https://github.com/wassimbouzakri/ProjetC"> Matches Game 🔥</a> <br>
 
 # NUIT DE L'INFO 🌑
 
