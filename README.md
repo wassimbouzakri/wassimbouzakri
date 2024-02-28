@@ -28,11 +28,6 @@ I am mainly a front-end developer but I am interested in anything else ❗️
 - C: <br>
 <a href="https://github.com/wassimbouzakri/ProjetC"> Matches Game 🔥</a> <br>
 
-# NUIT DE L'INFO 🌑
-
-- REACT.JS : <br>
-<a href="https://github.com/Pierrad/NDI-2021-Front"> WebSite Nuit De L'info ⛵️</a> <br>
-
 # MY STATS
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=wassimbouzakri&show_icons=true&locale=en&theme=radical"/></p>
